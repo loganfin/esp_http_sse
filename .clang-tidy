@@ -6,6 +6,7 @@ Checks: '*,
          -fuchsia-overloaded-operator,
          -altera-unroll-loops,
          -google-readability-todo,
+         -readability-function-cognitive-complexity,
          '
 
 CheckOptions:
